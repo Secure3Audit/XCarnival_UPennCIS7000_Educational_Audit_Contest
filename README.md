@@ -1,1 +1,1 @@
-# TEMPLATE_Audit_Contest_PRIVATE
+# XCarnival_UPennCIS7000_Educational_Audit_Contest
